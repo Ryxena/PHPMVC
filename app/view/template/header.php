@@ -20,4 +20,4 @@
     <title>JCLothes || Make Your Ideas Into Reality <?= $data ?></title>
 </head>
 
-<body>
+<body> 
